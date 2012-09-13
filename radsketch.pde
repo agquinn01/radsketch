@@ -6,4 +6,5 @@ void setup(){
   rect(40,40,40,40);
   fill(0);
   ellipse(160,160,60,60);
+  ellipse(150,200,30,30);
 }
