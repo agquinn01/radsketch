@@ -4,4 +4,6 @@ void setup(){
   noStroke();
   fill(255,0,0);
   rect(40,40,40,40);
+  fill(0);
+  ellipse(160,160,60,60);
 }
